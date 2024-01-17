@@ -1,0 +1,26 @@
+package com.model.enums;
+
+public enum ArchetypeEnum {	
+	
+	CHARIOT,
+	COUNCILLOR,
+	DEATH,
+	DEVIL,
+	EMPEROR,
+	EMPRESS,
+	FAITH,
+	FOOL,
+	FORTUNE,
+	HANGE,
+	HERMIT,
+	HIEROPHANT,
+	JUSTICE,
+	LOVERS,
+	MOON,
+	PRIESTESS,
+	STAR,
+	SUN,
+	TEMPERANCE,
+	TOWER
+
+}
